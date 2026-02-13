@@ -55,7 +55,7 @@ Busco seguir creciendo profesionalmente y aportar mis conocimientos en entornos 
 
 ---
 
-## 💼 Experiencia (Prácticas / Voluntariado)
+## 💼 Experiencia (Prácticas)
 
 **Técnico Informático en prácticas**  
 *[Instituto Luis Suñer] | [2024]*  
