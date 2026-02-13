@@ -4,7 +4,7 @@
 *Instituto Luis Suñer | 2024 - 2026*
 
 ### 🎓 Formación previa
-*Grado Básico en Informática de Oficina – IES Rei en Jaume  | 2022-2024 *
+*Grado Básico en Informática de Oficina – IES Rei en Jaume  | 2022-2024*
 
 ---
 
