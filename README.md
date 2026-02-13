@@ -37,7 +37,7 @@ Busco seguir creciendo profesionalmente y aportar mis conocimientos en entornos 
 ### [🖥️ proyecto aplicacion Luis Suñer](https://github.com/manuel14072006/app-centro-Luis-Su-er)
 > Aplicación creada como proyecto personal para centralizar información del centro Luis Suñer. Incluye estructura web, diseño básico y funcionalidades pensadas para estudiantes.
 
-### ### 📊 Proyecto final de curso  [Repositorio en GitHub](https://github.com/manuel14072006/proyecto-final-de-curso-2-SMX)
+### 📊 Proyecto final de curso(https://github.com/manuel14072006/proyecto-final-de-curso-2-SMX)
 
 > Aplicación web tipo bloc de notas con chat en tiempo real, desarrollada con:
 
