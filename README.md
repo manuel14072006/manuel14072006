@@ -92,6 +92,7 @@ Correo: manuelandreetta23@gmail.com
 
 ![Lenguajes más usados](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manuel14072006&layout=compact&theme=dark)
 
+
 ---
 
 ⭐ *Este README forma parte de mi currículum interactivo en GitHub. Los proyectos están disponibles para consulta.*
