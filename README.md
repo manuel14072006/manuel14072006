@@ -58,7 +58,7 @@ Busco seguir creciendo profesionalmente y aportar mis conocimientos en entornos 
 
 **Técnico Informático en prácticas**  
 *[Instituto Luis Suñer] | [2024]*  
-- Durante mis prácticas en el centro educativo realicé tareas relacionadas con soporte técnico, mantenimiento y administración básica de sistemas:
+ Durante mis prácticas en el centro educativo realicé tareas relacionadas con soporte técnico, mantenimiento y administración básica de sistemas:
 - Instalación y configuración de equipos para aulas y departamentos.
 - Mantenimiento preventivo y correctivo de ordenadores y periféricos.
 - Configuración de redes locales: direccionamiento IP, DHCP, DNS y conexión de dispositivos.
@@ -67,7 +67,7 @@ Busco seguir creciendo profesionalmente y aportar mis conocimientos en entornos 
 - Gestión básica de usuarios y equipos en entornos educativos.
 - Documentación de incidencias y tareas realizadas.
 
-**Técnico Informático en prácticas **  
+**Técnico Informático en prácticas**  
 *[CEIP Garcia Lorca] | [2022]*  
 Prácticas realizadas durante el Grado Básico de Informática de Oficina, centradas en soporte técnico y organización del material del centro:
 - Elaboración de inventarios de equipos y material informático en aulas y despachos.
