@@ -1,10 +1,10 @@
 # 👋 Hola soy Manuel Facundo Andreetta
 
 ### 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
-*Instituto Luis Suñer | 2026*
+*Instituto Luis Suñer | 2024 - 2026*
 
 ### 🎓 Formación previa
-*Grado Básico en Informática de Oficina – IES Rei en Jaume*
+*Grado Básico en Informática de Oficina – IES Rei en Jaume  | 2022-2024 *
 
 ---
 
