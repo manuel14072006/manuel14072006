@@ -88,9 +88,8 @@ Correo: manuelandreetta23@gmail.com
 
 ## 📊 Mi actividad en GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manuel14072006&show_icons=true&theme=dark)
-
-![Lenguajes más usados](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manuel14072006&layout=compact&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manuel14072006&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel14072006&layout=compact&theme=dark)
 
 
 ---
