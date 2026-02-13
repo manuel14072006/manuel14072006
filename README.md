@@ -1,5 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=600&lines=Hola+soy+Manuel;Técnico+SMX;Python+Developer;Web+Developer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1A1A1A&height=120&section=header&text=Manuel%20-%20T%C3%A9cnico%20SMX&fontSize=40&fontColor=00E5FF&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Python+Developer;Web+Developer;Estudiante+de+SMX;Bienvenido+a+mi+perfil" />
+</p>
+
 
 ### 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
 *Instituto Luis Suñer | 2024 - 2026*
