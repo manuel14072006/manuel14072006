@@ -1,4 +1,5 @@
-# 👋 Hola soy Manuel Facundo Andreetta
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=600&lines=Hola+soy+Manuel;Técnico+SMX;Python+Developer;Web+Developer)](https://git.io/typing-svg)
 
 ### 🎓 Técnico en Sistemas Microinformáticos y Redes (SMR)
 *Instituto Luis Suñer | 2024 - 2026*
